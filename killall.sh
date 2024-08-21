@@ -1,0 +1,2 @@
+kill  `jobs -p`
+
